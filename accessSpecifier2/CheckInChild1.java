@@ -5,7 +5,7 @@ class CheckInChild1  {
 	
 	public static void main(String[] args) {
 		CheckInChild1 obj = new CheckInChild1();
-		obj.m1();
+		obj.m2();
 		
 		CheckInChild1.m2();
 	}
